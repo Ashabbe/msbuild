@@ -5,7 +5,7 @@
       <name>ansible_server</name>
       <hostname>13.233.123.240</hostname>
       <username>ansadmin</username>
-      <secretPassword>{AQAAABAAAAAQsKUPqdw9C0Q6Co0OuOoT7U9RjoyVp8cdI2/CdPEmuGQ=}</secretPassword>
+      <secretPassword>{AQAAABAAAAAQIovQLXeE7ufkaYOUkIfXgEfNdaFUe4JlJZFLslLvMEc=}</secretPassword>
       <remoteRootDir></remoteRootDir>
       <port>22</port>
       <commonConfig class="jenkins.plugins.publish_over_ssh.BapSshCommonConfiguration">
@@ -33,7 +33,7 @@
       <name>Docker_host</name>
       <hostname>13.126.180.237</hostname>
       <username>dockeradmin</username>
-      <secretPassword>{AQAAABAAAAAQrM9AWf66Ta7GA+H5ZA9G10r80DwLT4Kv2RhwAleS85E=}</secretPassword>
+      <secretPassword>{AQAAABAAAAAQP4si3iYBedlNAotWnvPiuLJGR+F32oKqJICnbbV8NwI=}</secretPassword>
       <remoteRootDir></remoteRootDir>
       <port>22</port>
       <commonConfig class="jenkins.plugins.publish_over_ssh.BapSshCommonConfiguration" reference="../../jenkins.plugins.publish__over__ssh.BapSshHostConfiguration/commonConfig"/>
